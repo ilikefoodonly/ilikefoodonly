@@ -1,10 +1,20 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in linux shell scripting and configuring wm's
-- 🌱 I’m currently 14 years old and and learning linux shell scripting(i am vey new)
-- 💞️ I’m looking to collaborate on linux and wm
-- 📫 you can reach me at 
+<div align="center">
+  
+  <h1>Greetings to my profile </h1>
+  <p>I am learning python, C++(I just started).</p>
+  <p> I like ricing my linux desktop,manga,anime,science,math and food.</p> 
 
-<!---
-foodgl/foodgl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  # Programs I use
+  | Name | Description |
+  |------|-------------|
+  |[alacritty](https://github.com/alacritty/alacritty)| It is thy fastest terminal so yeah :)|
+  |[bspwm](https://github.com/baskerville/bspwm)|My favoruite window manager and it is very simple to configure|
+  |[firefox](https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com)|as it is open-source or I just use brave|
+  |[vim](https://github.com/vim/vim)| as I am lazy to type nvim rather than vim to open a file|
+  |[catppuccin](https://github.com/catppuccin/catppuccin)|It looks dope for me as it is a pastel theme|
+  |[pfetch](https://github.com/dylanaraps/pfetch)|"NEOFETCH IS BLOAT" so I use pfetch|
+  |[OhFishShell](https://github.com/oh-my-fish/oh-my-fish)|something different|
+  --------------------------------------------------------------------------------------------------------------------------
+  # How did I begin my linux journey (eventhough it has been 2 years only [or longer])
+ Just after visiting [r/unixporn](https://www.reddit.com/r/unixporn),seeing memes on arch and gentoo and finally my personal interset in trying out linux.I hope to learn new things in linux every day 
+  
