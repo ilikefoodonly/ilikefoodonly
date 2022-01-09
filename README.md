@@ -13,7 +13,7 @@
   |[vim](https://github.com/vim/vim)| as I am lazy to type nvim rather than vim to open a file|
   |[catppuccin](https://github.com/catppuccin/catppuccin)|It looks dope for me as it is a pastel theme|
   |[pfetch](https://github.com/dylanaraps/pfetch)|"NEOFETCH IS BLOAT" so I use pfetch|
-  |[OhFishShell](https://github.com/oh-my-fish/oh-my-fish)|something different|
+  |[OhMyBashShell](https://github.com/ohmybash/oh-my-bash)|I preffer using bash|
   --------------------------------------------------------------------------------------------------------------------------
   # How did I begin my linux journey (eventhough it has been 2 years only [or longer])
  Just after visiting [r/unixporn](https://www.reddit.com/r/unixporn),seeing memes on arch and gentoo and finally my personal interset in trying out linux.I hope to learn new things in linux every day 
